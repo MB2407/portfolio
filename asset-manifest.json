@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.670fa109.chunk.css",
-    "main.js": "/portfolio/static/js/main.8b8d0714.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8b8d0714.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.51c73f42.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.51c73f42.js.map",
+    "main.js": "/portfolio/static/js/main.f0b70d64.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f0b70d64.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
     "static/css/2.d45d6843.chunk.css": "/portfolio/static/css/2.d45d6843.chunk.css",
-    "static/js/2.ac077be4.chunk.js": "/portfolio/static/js/2.ac077be4.chunk.js",
-    "static/js/2.ac077be4.chunk.js.map": "/portfolio/static/js/2.ac077be4.chunk.js.map",
+    "static/js/2.6c3321f1.chunk.js": "/portfolio/static/js/2.6c3321f1.chunk.js",
+    "static/js/2.6c3321f1.chunk.js.map": "/portfolio/static/js/2.6c3321f1.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/portfolio/static/css/2.d45d6843.chunk.css.map",
     "static/css/main.670fa109.chunk.css.map": "/portfolio/static/css/main.670fa109.chunk.css.map",
-    "static/js/2.ac077be4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ac077be4.chunk.js.LICENSE.txt",
+    "static/js/2.6c3321f1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6c3321f1.chunk.js.LICENSE.txt",
     "static/media/App.css": "/portfolio/static/media/OIP.29597617.jpg",
     "static/media/img.b7a67fab.png": "/portfolio/static/media/img.b7a67fab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51c73f42.js",
+    "static/js/runtime-main.bcd5af5a.js",
     "static/css/2.d45d6843.chunk.css",
-    "static/js/2.ac077be4.chunk.js",
+    "static/js/2.6c3321f1.chunk.js",
     "static/css/main.670fa109.chunk.css",
-    "static/js/main.8b8d0714.chunk.js"
+    "static/js/main.f0b70d64.chunk.js"
   ]
 }
